@@ -17,4 +17,4 @@ is not shared with third parties.
 Data exists only for the duration of a session and is not retained.
 
 If you have questions about this policy, contact:
-your-email@example.com
+jobrcunningham1234@gmail.com
